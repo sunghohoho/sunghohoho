@@ -22,6 +22,8 @@
 <img src="https://user-images.githubusercontent.com/18481959/222625775-ead7db4f-af9b-4133-9c67-1c4386001f15.png" width="78" height="78">
 <img src="https://user-images.githubusercontent.com/18481959/222625970-3169cdc3-8af8-46fd-a79a-cd73931d01e1.png" width="78" height="78">
 <img src="https://user-images.githubusercontent.com/18481959/222625507-c864f018-5255-4465-8116-e352e232e057.png" width="78" height="78">
+<img width="78" height="78" alt="image" src="https://github.com/sunghohoho/sunghohoho/assets/70935296/a1147e98-96e4-4048-ba01-a4e1b5d7cd10">
+
 <img src="https://user-images.githubusercontent.com/18481959/268444264-7d02f319-7e09-4e75-bcf0-a1b8cf49e626.png" width="78" height="78">
 </br>
  </div>
